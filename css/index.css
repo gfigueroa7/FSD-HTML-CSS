@@ -600,3 +600,9 @@ main {
         width: 100%;
     }
 }
+
+@media (max-width: 480px){
+    header .header__text-box button {
+        display: none;
+    }
+}
